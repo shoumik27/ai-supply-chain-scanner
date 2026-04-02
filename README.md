@@ -523,7 +523,7 @@ We welcome contributions from the security research community! Here's how to get
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/ai-supply-chain-scanner.git
+git clone https://github.com/shoumik27/ai-supply-chain-scanner.git
 cd ai-supply-chain-scanner
 
 # Create virtual environment
