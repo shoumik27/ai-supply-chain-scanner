@@ -65,7 +65,7 @@ pip install ai-supply-chain-scanner
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-supply-chain-scanner.git
+git clone https://github.com/shoumik27/ai-supply-chain-scanner.git
 cd ai-supply-chain-scanner
 
 # Install in development mode
